@@ -23,7 +23,7 @@ def signin():
     mypassword = credential[1]
     email.send_keys(myemail)
     password.send_keys(mypassword)
-    login.submit()
+    #login.submit()
 signin()
 sleep(1)
 input("Please Hit ENTER...")
