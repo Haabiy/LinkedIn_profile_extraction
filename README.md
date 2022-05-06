@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/76060198/167107190-72459703-29b0-4e9a-
 ***Like this in this example :*** [LinkedIn_xx.csv](https://github.com/Haabiy/LinkedIn_profile_extraction/files/8639082/LinkedIn_xx.csv)
 
 ***Behind the scenes : sample***
-https://user-images.githubusercontent.com/76060198/167108391-e1225416-69cc-41c9-bc8b-9ff81fad1d8d.mp4
+https://user-images.githubusercontent.com/76060198/167112334-752eb4dd-4e0b-4151-a127-726a8764c479.mp4
 
 
 
