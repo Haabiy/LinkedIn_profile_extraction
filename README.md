@@ -1,5 +1,34 @@
-***Source*** : https://www.francemobilites.fr/cartographie-laureats#velo-cc
+***Source :*** https://www.francemobilites.fr/cartographie-laureats#velo-cc
+
+***File :*** [Laureats AAP 1 a 3 pour publiFM.xlsx](https://github.com/Haabiy/LinkedIn_profile_extraction/files/8638861/Laureats.AAP.1.a.3.pour.publiFM.2.xlsx)
+
 # LinkedIn profile extraction
 *Final exported file* : [Laureats.pdf](https://github.com/Haabiy/LinkedIn_profile_extraction/files/8601720/Laureats.pdf)
+
+
+The idea of this project is to automate contact-info-collection process on LinkedIn making use of Python libraries( Selenium and Beautifulsoup)
+
+***Prerequisites***
+1. In the *Authentication.txt* file, make sure you put your email and password you use to log into your LinkedIn account
+2. In the *Resized_data.txt* file, add key-words that you'd like to search on LinkedIn
+3. In the *Job_titles.txt* file, put some job positions that you are interested in searching
+
+***E.g : the start looks like***
+
+![image](https://user-images.githubusercontent.com/76060198/167104904-e0af0a6b-ee6b-47d7-aa5c-56f9e5cd142e.png)
+
+***The whole process looks like :***
+
+https://user-images.githubusercontent.com/76060198/167107190-72459703-29b0-4e9a-93fc-a5f9b62fe3b2.mp4
+
+***You may have noticed some duplicates, dont worry, there is a section of code to edit those out and export the lists in LinkedIn_xx.csv file***
+
+***Like this in this example :*** [LinkedIn_xx.csv](https://github.com/Haabiy/LinkedIn_profile_extraction/files/8639082/LinkedIn_xx.csv)
+
+***Behind the scenes : sample***
+https://user-images.githubusercontent.com/76060198/167108391-e1225416-69cc-41c9-bc8b-9ff81fad1d8d.mp4
+
+
+
 
 
