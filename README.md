@@ -17,6 +17,12 @@ The idea of this project is to automate contact-info-collection process on Linke
 
 ![image](https://user-images.githubusercontent.com/76060198/167104904-e0af0a6b-ee6b-47d7-aa5c-56f9e5cd142e.png)
 
+*Enter the number of pages you'd like to scrape per search result :*
+
+![image](https://user-images.githubusercontent.com/76060198/167131193-39aee699-751c-4acb-b82c-1774b39f2743.png)
+
+*Enter the number of key-words you'd like to search on LinkedIn :* have a look at ***Resized_data.txt***
+
 ***The whole process looks like :***
 
 https://user-images.githubusercontent.com/76060198/167107190-72459703-29b0-4e9a-93fc-a5f9b62fe3b2.mp4
