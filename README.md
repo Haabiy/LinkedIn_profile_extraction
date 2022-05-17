@@ -1,3 +1,12 @@
+# Disclaimer
+
+```diff
+- This is purely intended for educational and not-illegal purposes as Scraping data off of LinkedIn is against their User Agreement.
+
+User agreement : https://news.linkedin.com/2022/february/taking-legal-action-to-protect-members-against-scraping
+```
+
+
 ***Source :*** https://www.francemobilites.fr/cartographie-laureats#velo-cc
 
 ***File :*** [Laureats AAP 1 a 3 pour publiFM.xlsx](https://github.com/Haabiy/LinkedIn_profile_extraction/files/8638861/Laureats.AAP.1.a.3.pour.publiFM.2.xlsx)
